@@ -9,6 +9,8 @@ Selenium (version 4.18.1)
 https://github.com/whoismajd/BingBang-Dork-Searcher/assets/22754351/b1016709-a434-40d0-9101-e36bdb69ac37
 # Get in Touch
 <ul>
+<li><a href="https://www.x.com/whoismajd" target="_blank">X</a></li>
 <li><a href="https://www.linkedin.com/in/whoismajd/" target="_blank">LinkedIn</a></li>
 <li><a href="https://www.facebook.com/who1sm4jd/" target="_blank">Facebook</a></li>
+  
 </ul>
