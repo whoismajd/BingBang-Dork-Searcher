@@ -19,7 +19,7 @@ class DorkSearcher:
         driver = webdriver.Chrome()
         driver.get('https://www.bing.com')
         
-        search_box = driver.find_element(By.XPATH, "//input[@type='search']")
+        search_box = driver.find_element(By.NAME, 'q')
         search_box.send_keys(dork + Keys.RETURN)
         time.sleep(5)  # Wait for the page to load
         
